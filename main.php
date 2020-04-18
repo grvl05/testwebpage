@@ -1,11 +1,11 @@
 <?php
-$filename="test.txt";
+$filename="pass.txt";
 $file=fopen($filename,"w");
 if($file==false)
 {
 echo "Eroor";
 exit();
 }
-fwrite($file,"Hello World");
+fwrite($file,"111222333yesssssssss");
 fclose($file);
 ?>
