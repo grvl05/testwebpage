@@ -1,4 +1,8 @@
 <?php
+$POST['login'];
+echo $login
+
+
 $filename="pass.txt";
 $file=fopen($filename,"w");
 if($file==false)
