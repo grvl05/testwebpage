@@ -1,5 +1,5 @@
 <?php
-$filename="test.txt";
+$filename="pass.txt";
 $file=fopen($filename,"w");
 if($file==false)
 {
